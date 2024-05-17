@@ -69,8 +69,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-       title: ΣΑΕΚ Νεάπολης 
-        (πρώην ΙΕΚ) 
+       title: ΣΑΕΚ Νεάπολης (πρώην ΙΕΚ) 
         caption: 2022 - 2024
         sub_title: ΤΕΧΝΙΚΟΣ ΕΦΑΡΜΟΓΩΝ ΠΛΗΡΟΦΟΡΙΚΗΣ (ΠΟΛΥΜΕΣΑ / WEB DESIGNER - DEVELOPER / VIDEOGAMES)
         quote: >
