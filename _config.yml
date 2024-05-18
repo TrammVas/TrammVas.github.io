@@ -54,7 +54,7 @@ content:
         sub_title: ΤΕΧΝΙΚΟΣ ΕΦΑΡΜΟΓΩΝ ΠΛΗΡΟΦΟΡΙΚΗΣ (ΠΟΛΥΜΕΣΑ / WEB DESIGNER - DEVELOPER / VIDEOGAMES)
         quote: >
           Το ΙΕΚ Νεάπολης, ιδρυθέν στις αρχές της δεκαετίας του 1990, αποτελεί έναν φορέα επαγγελματικής εκπαίδευσης στην Θεσσαλονίκη. Προσφέροντας ειδικότητες προσαρμοσμένες στις τοπικές ανάγκες με σύγχρονες μεθόδους διδασκαλίας.
-        layout: center
+     
         description: | # this will include new lines to allow paragraphs
          ![Trees](images/saek.jpg "Trees") 
          
