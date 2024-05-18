@@ -56,9 +56,7 @@ content:
         quote: >
           Το ΙΕΚ Νεάπολης, ιδρυθέν στις αρχές της δεκαετίας του 1990, αποτελεί έναν φορέα επαγγελματικής εκπαίδευσης στην Θεσσαλονίκη. Προσφέροντας ειδικότητες προσαρμοσμένες στις τοπικές ανάγκες με σύγχρονες μεθόδους διδασκαλίας.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Κατά τη διάρκεια της φοίτησής μου στην Νεάπολη , απέκτησα τις περισσότερες από τις βασικές δεξιότητες που θα με συνοδεύουν στην καριέρα μου, όπως η ομαδική εργασία και η εργασία με αυστηρές προθεσμίες. Απόλαυσα ιδιαίτερα τον χρόνο μου στη σχολή και έμαθα πολλά για την ισορροπία μεταξύ επαγγελματικής και προσωπικής ζωής.
 
   - title: A Little More About Me
     layout: text
@@ -67,10 +65,8 @@ content:
       - Μουσική
       - Gaming
       - Cycling/Ποδηλασία
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    
 
 # Footer
 footer_show_references: true
